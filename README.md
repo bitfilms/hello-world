@@ -1,4 +1,5 @@
-hello-world
-===========
+This is my new readme file.
+I love it!
 
-My first github repository.
+Hope you do, too.
+
